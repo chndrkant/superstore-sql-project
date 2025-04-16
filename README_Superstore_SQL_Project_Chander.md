@@ -6,7 +6,6 @@ This project analyzes a fictional retail company's sales data using SQL, focusin
 ## 🛠 Tools Used
 - MySQL
 - Google Sheets (for cleaning)
-- Python (for automation)
 - GitHub (for version control)
 
 ## 📁 Dataset
