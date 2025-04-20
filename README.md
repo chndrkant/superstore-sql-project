@@ -33,6 +33,10 @@ Imported from a cleaned `.csv` containing 9800 rows across 18 columns including 
 ### 6. How does average shipping time trend over months?
 📌 Average shipping time was **4.19 days** in 2015-01, and **4.03 days** in 2018-12.
 
+## 📄 Report Download
+
+[📥 Final PDF Report](Superstore_SQL_Project_Report.pdf)
+
 ---
 
 ## 🧠 What I Learned
